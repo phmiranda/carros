@@ -9,6 +9,7 @@
   <version>1.0.0</version>
   <name>carros</name>
   <url>http://www.example.com</url>
+  <packaging>war</packaging>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
